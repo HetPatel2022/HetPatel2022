@@ -46,7 +46,7 @@
 
 ## 🧩 Featured Projects
 
-🔬 **[Disease Prediction System](https://github.com/HetPatel2022)**  
+🔬 **[Disease Prediction System](https://github.com/HetPatel2022/Diseases_Prediction)**  
 → Predict diseases based on symptoms using supervised ML (SVM, Random Forest)  
 → Built with Python, Pandas, Scikit-learn
 
