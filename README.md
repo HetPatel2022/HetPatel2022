@@ -16,8 +16,6 @@
 🤖 Built **LLM, RAG & Computer Vision systems** that improved accuracy, performance & automation  
 ⚡ Automated **40+ hours/month** of manual processes using Azure ETL & ML pipelines  
 🚀 Passionate about **MLOps, Cloud, Deep Learning, and Data Engineering**  
-💼 Goal: Become a **Machine Learning Engineer + Full Data Scientist**
-
 ---
 
 ## 🧠 Core Skills & Tools
