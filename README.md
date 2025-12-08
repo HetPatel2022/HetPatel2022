@@ -89,8 +89,8 @@
 - Big Data Analytics – **90.7% GPA (Dean’s List)**  
 - Artificial Intelligence – **85.8% GPA (Dean’s List)**  
 
-🎓 **Bachelor of Engineering in Information Technology (2019–2023)**  
-Sardar Vallabhbhai Patel Institute of Technology
+🎓 **Bachelor of Engineering in Information Technolog (2019–2023)**  
+Sardar Vallabhbhai Patel Institute of Technology - **8.37 CGPA**
 
 ---
 
