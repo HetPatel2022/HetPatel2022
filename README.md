@@ -9,13 +9,13 @@
 
 ---
 
-## 🔍 About Me
+### 🔍 About Me
+- 🎓 Graduated from Georgian College — Big Data Analytics & Artificial Intelligence (Dean’s List)
+- 🧠 1.5+ years of experience in AI/ML, Data Science, and Full-Stack development
+- 🤖 Built LLM, RAG & Computer Vision systems that improved accuracy and automation
+- ⚡ Automated 40+ hours/month of manual processes using Azure ETL & ML pipelines
+- 🚀 Passionate about MLOps, Cloud, Deep Learning, and Data Engineering
 
-🎓 **Graduated** from Georgian College — Big Data Analytics & Artificial Intelligence (Dean’s List)  
-🧠 1.5+ years of **AI/ML, Data Science, and Full-Stack** development experience  
-🤖 Built **LLM, RAG & Computer Vision systems** that improved accuracy, performance & automation  
-⚡ Automated **40+ hours/month** of manual processes using Azure ETL & ML pipelines  
-🚀 Passionate about **MLOps, Cloud, Deep Learning, and Data Engineering**  
 ---
 
 ## 🧠 Core Skills & Tools
